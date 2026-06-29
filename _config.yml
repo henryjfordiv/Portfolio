@@ -1,7 +1,7 @@
 # Site settings
 title: Henry Ford
 email: henryjfordiv@gmail.com
-url: http://henryjfordiv-beep.github.io/Portfolio
+url: http://henryjfordiv.github.io/Portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
@@ -42,7 +42,7 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/henry-ford-4184061b3/
   - title: github
-    url: https://github.com/henryjfordiv-beep
+    url: https://github.com/henryjfordiv
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
